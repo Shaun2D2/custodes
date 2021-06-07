@@ -1,6 +1,6 @@
 {
   "name": "custodes",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A simple way to add authentication routes to your application",
   "main": "src/index.js",
   "dependencies": {
