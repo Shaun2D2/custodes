@@ -1,0 +1,29 @@
+{
+  "name": "custodes",
+  "version": "1.0.0",
+  "description": "A simple way to add authentication routes to your application",
+  "main": "src/index.js",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "passport-jwt": "^4.0.0",
+    "passport": "^0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaun2D2/custodes.git"
+  },
+  "keywords": [
+    "auth",
+    "express"
+  ],
+  "author": "Shaun Lobsinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shaun2D2/custodes/issues"
+  },
+  "homepage": "https://github.com/Shaun2D2/custodes#readme"
+}
